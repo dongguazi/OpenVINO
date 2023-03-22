@@ -1,1 +1,0 @@
-extern "C" _declspec(dllexport) char* CheckLicense();
